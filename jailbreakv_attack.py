@@ -1,5 +1,4 @@
 import torch
-import random
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import pandas as pd
 from datasets import load_dataset
